@@ -29,8 +29,8 @@
     输出：
     bind,wood
 */
-    let token1 = await readline();
-    let token2 = await readline();
+    let token1 = 'bdni,wooood'        //await readline();
+    let token2 = 'bind,wrong,wood'//await readline();
     let qArr = token1.split(",");
     let aArr = token2.split(",");
     let lastArr = []
