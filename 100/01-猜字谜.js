@@ -38,11 +38,11 @@
     for (let i = 0; i < qArr.length; i++) {
         //对应每一个谜面
         let testArr = quchong(qArr[i])//去重
-        let lasttestStr = testArr.sort((a,b)=>a.localeCompare(b)).join('')//排序
+        let lasttestStr = testArr.sort(/* (a,b)=>a.localeCompare(b) */).join('')//排序
         for (let j = 0; j < aArr.length; j++) {
             //对应每个答案
             let ansArr = quchong(aArr[j])//去重
-            let lastansStr = ansArr.sort((a,b)=>a.localeCompare(b)).join('')//排序
+            let lastansStr = ansArr.sort(/* (a,b)=>a.localeCompare(b) */).join('')//排序
             let reg = new RegExp(lastansStr,'g')
             if(reg.test(lasttestStr)){
                 //判断是否是对的谜底
