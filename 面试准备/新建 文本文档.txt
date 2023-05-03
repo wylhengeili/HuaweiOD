@@ -1,0 +1,92 @@
+机考注意事项：
+1、 电脑注意开启摄像头、否则视为考试成绩无效；
+2、 考试过程中请勿切换后台，请勿翻阅书本及其他移动设备、请勿访问百度、牛客网讨论群、论坛等网站。
+3、 考试过程中年请勿扩充屏幕，禁止双屏操作。
+4、 考试链接时效性为1周，请在1周内完成考试，如不能完成，请及时里联系HR；
+5、 机考题共3道：第1、2道各100分，第3道题200分，共计400分。考试时长2.5小时，请注意合理安排时间。
+6、 考试链接打开后，首先看到的是考前需知等内容。需要按照系统指导，填写个人信息，调试好摄像头、启动手机监控小程序后开始答题；中间每个环节都需处理，不能跳过。
+7、 编程支持本地IDE编码后复制粘贴至考试页面，不做跳出限制。建议在本地IDE编译、调试完成后复制到考试界面保存运行；
+8、 不限制代码提交次数（以提交中最高得分记分），代码完成后请务必点击“保存并调试”按钮，可多次操作。调试完成后点击“下一题”。注意：最后一题界面上的“提交本题型”等同于交卷按钮，一旦提交后，3道题目都无法再编辑，请谨慎操作。
+9、 答题期间请务必按照提示扫描链接手机监控，请确保答题过程中，手机电量充足，手机监控一直开启。且不允许外接电话、不允许查询软件，否则有作弊嫌疑。
+10、 考试期间如遇断电、断网、死机等问题，可以关闭浏览器重新打开试卷链接即可继续做题。
+
+机考练习建议：
+1、 若算法基础薄弱，建议学习一门算法课程，比较推荐极客时间王争《数据结构与算法之美》，掌握基础篇的前半部分即可。
+2、 牛客、leetcode刷题：建议按照先后书顺序，把数组、字符串、链表、二叉树、排序、二分、深度搜索、广度搜索做下练习，每个类别多联系几道。
+3、 机考之前建议一定再上牛客网，练习一部分题目，主要适应下输入输出处理。牛客网的输入输出需要自己处理。
+4、 机考时一定仔细阅读题目，仔细分析给的示例，能够设计出更多的测试用例，对于提高通过率非常有帮助。
+
+
+机考练习参考
+1、牛客网（简单、中等难度）
+https://www.nowcoder.com/exam/company
+
+2、力扣（简单、中等难度）
+https://leetcode-cn.com/problemset/all/
+
+3、分类练习
+
+基础能力
+
+https://www.nowcoder.com/practice/649b210ef44446e3b1cd1be6fa4cab5e?tpId=37&&tqId=21258&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking
+
+字符串操作
+
+https://www.nowcoder.com/practice/637062df51674de8ba464e792d1a0ac6?tpId=37&&tqId=21319&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking
+
+栈
+
+https://www.nowcoder.com/practice/f549ee08ddd84b8485a4fa9aefaf4a38?tpId=37&&tqId=21302&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking
+
+
+链表
+
+https://www.nowcoder.com/practice/54404a78aec1435a81150f15f899417d?tpId=37&&tqId=21274&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking
+
+排序
+
+https://www.nowcoder.com/practice/9a763ed59c7243bd8ab706b2da52b7fd?tpId=37&&tqId=21248&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking
+
+搜索遍历
+
+https://www.nowcoder.com/questionTerminal/cf24906056f4488c9ddb132f317e03bc?answerType=1&f=discussion
+
+字符串
+
+字符统计
+https://www.nowcoder.com/practice/c1f9561de1e240099bdb904765da9ad0?tpId=37&&tqId=21325&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking
+
+数组
+
+合并区间
+https://www.nowcoder.com/practice/0596b6232ce74b18b60ba0367d7f2492?tpId=182&&tqId=34827&rp=1&ru=/ta/exam-all&qru=/ta/exam-all/question-ranking
+
+链表
+
+链表合并：
+https://www.nowcoder.com/practice/46bda7f0570a47b6b54a29a0a6ae4c27?tpId=182&&tqId=34634&rp=1&ru=/ta/exam-all&qru=/ta/exam-all/question-ranking
+
+二叉树
+
+从中序与后序遍历序列构造二叉树
+
+https://leetcode-cn.com/explore/learn/card/data-structure-binary-tree/4/conclusion/15/
+
+二叉树的序列化
+https://www.nowcoder.com/practice/e3a3a1a956914d8ca5688ea47a5cf9c9?tpId=182&&tqId=34761&rp=1&ru=/ta/exam-all&qru=/ta/exam-all/question-ranking
+
+动态规划
+
+猴子爬山（牛客）/爬楼梯（leetcode）
+https://www.nowcoder.com/practice/b178fcef3ed4448c99d7c0297312212d?tpId=182&&tqId=34365&rp=1&ru=/ta/exam-all&qru=/ta/exam-all/question-ranking
+
+数学题
+
+https://www.nowcoder.com/practice/caf35ae421194a1090c22fe223357dca?tpId=37&&tqId=21330&rp=1&ru=/ta/huawei&qru=/ta/huawei/question-ranking
+
+图
+
+https://www.nowcoder.com/practice/5427af99168b45f4a14aec195b28a839?tpId=182&&tqId=34439&rp=1&ru=/activity/oj&qru=/ta/exam-all/question-ranking
+
+4、博客练习
+http://www.amoscloud.com/?cat=62
